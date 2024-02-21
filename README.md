@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Karel, a developer familiar with Rust and Typescript.
-- 📊 I started as a Data Retrieval and Governace Specialist using mostly SQL, but chose to delve into web development with a focus on efficiency.
-- ⭐ Rated with 5/5 stars on both People Per Hour and Upwork.
-- 💼 Also capable of writing Pinescript, MQL4, and MQL5.
-- 💞️ I’m open to collaborate on games in Rust's Bevy, Drone SDK programming or Web Applications
-
 👋 Hi, I’m Karel, a developer familiar with Rust and Typescript.
 📊 I started as a Data Retrieval and Governace Specialist using mostly SQL, but chose to delve into web development with a focus on efficiency.
 ⭐ Rated with 5/5 stars on both People Per Hour and Upwork.
