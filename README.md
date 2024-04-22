@@ -22,8 +22,6 @@
 | Langchain         | JavaScript/TypeScript| One project                          |
 | Postgres          | SQL                  | Professional since 2021              |
 | Pinescript        | PineScript           | Professional since 2020              |
-| MQL4              | MQL4                 | Professional since 2020              |
-| MQL5              | MQL5                 | Professional since 2020              |
 
 
 
