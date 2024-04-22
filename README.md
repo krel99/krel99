@@ -7,7 +7,7 @@
 | Library           | Language             | Proficiency                          |
 |-------------------|----------------------|--------------------------------------|
 | Actix             | Rust                 | Can work independently               |
-| Rapier            | Rust                 | One project                          |
+| Rapier            | Javascript/Typescript| One ThreeJs project                          |
 | Bevy              | Rust                 | Did minor project                    |
 | Rocket            | Rust                 | Learning phase                       |
 | ThreeJs           | JavaScript/TypeScript| One project                          |
